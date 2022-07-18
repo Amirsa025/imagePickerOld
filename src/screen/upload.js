@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 const Home = () => {
     return (
         <View style={styles.container}>
-            <Text>Upload</Text>
+            <Text>Upload </Text>
         </View>
     );
 };
