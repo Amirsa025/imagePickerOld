@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 const Home = () => {
     return (
         <View style={styles.container}>
-            <Text>Upload </Text>
+            <Text>Upload</Text>
         </View>
     );
 };
@@ -11,9 +11,7 @@ const Home = () => {
 export default Home;
 const styles = StyleSheet.create({
     container: {
-        flex: 1,
-        backgroundColor: '#eaeaea',
-        alignItems: 'center',
-        justifyContent: 'center',
+        backgroundColor: "#e8e8e8",
+        height: "100%",
     },
 });

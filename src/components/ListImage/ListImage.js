@@ -16,8 +16,8 @@ export default ListImage;
 const styles = StyleSheet.create({
 
     ListImage : {
-        marginHorizontal : 5,
         marginVertical : 10,
+        marginTop:10,
         marginHorizontal : 15,
     },
     ImageContainer : {
@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
         height:100,
         resizeMode : "center",
         borderRadius : 8,
-        marginVertical : 10
+        marginVertical :2
     },
     
 });
